@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or cite this survey, please cite it as below."
+title: "Neuro-Symbolic Formal Verification in the Era of Reasoning Agents (2024–2026): From Automated Theorem Proving to Provably Safe AI Agents and Post-Quantum Critical Infrastructure"
+type: article
+authors:
+  - family-names: "Chaiwisut"
+    given-names: "Noppadon"
+    orcid: "https://orcid.org/0009-0005-2881-8458"
+    affiliation: "Independent Researcher, Thailand"
+version: "1.0.0"
+date-released: "2026-11-27"
+keywords:
+  - "Neuro-Symbolic Formal Verification"
+  - "Lean 4 Automated Theorem Proving"
+  - "Post-Quantum Cryptography"
+  - "AI Agent Security"
+  - "Information-Flow Control"
+  - "Specification Bugs"
+  - "Proof Visualization"
